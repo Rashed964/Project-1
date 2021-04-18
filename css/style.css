@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+border-bottom: 1px solid #ccc0c0;
+}
+.header_content{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+
+/* padding-top: 17px; */
+
+/* padding-bottom: 17px; */
+}
+.logo img{
+
+width: 50%;
+}
+nav{
+
+width: 30%;
+
+float: right;
+
+padding-top: 35px;
+}
+nav ul{
+
+list-style: none;
+
+
+}
+nav ul li{float: left;margin-right: 21px;font-size: 32px;text-transform: capitalize;}
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.heading h1{color: #1989DD;text-align: center;font-size: 70px;margin-top: 20px;}
+.heading p{
+
+text-align: center;
+
+color: #403d3d;
+
+font-size: 18px;
+
+margin: 5px;
+
+margin-top: 15px;
+}
+.heading img{
+    
+width: 80%;
+    
+margin-top: 25px;
+}
+.heading h1:first-child{
+    color: black;
+    margin-top: 50px;
+    font-size: 70px;
+}
+.main_content{
+
+overflow: hidden;
+}
+.left_content{
+
+width: 45%;
+
+float: left;
+}
+.left_content h1{
+
+text-align: right;
+
+color: red;
+
+font-size: 70px;
+}
+.left_content p{text-align: end;color: #403d3d;font-size: 30px;margin: 5px;}
+
+.right_content{
+
+width: 45%;
+
+float: right;
+}
+.right_content h1{
+
+text-align: left;
+
+font-size: 60px;
+
+color: #0D244E;
+}
+.feature{
+
+width: 90%;
+
+overflow: hidden;
+
+margin: auto;
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+}
+.feature-one{
+
+float: left;
+
+width: 28%;
+
+text-align: center;
+
+background: #FEEBED;
+
+padding: 50px 20px;
+
+/* text-align: center; */
+}
+.feature-one img{
+
+width: 96%;
+}
+.feature-one h3{
+
+text-align: left;
+
+color: #142143;
+}
+.feature-one p{text-align: left;color: #142143;}
+.feature-two{
+
+float: left;
+
+width: 28%;
+
+margin-left: 5%;
+
+background: #EAF9F4;
+
+padding: 50px 20px;
+
+text-align: center;
+}
+.feature-two img{
+    width: 90%;
+}
+.feature-two h3{
+    text-align: left;
+
+    color: #142143;
+}
+.feature-two p{
+    text-align: left;color: #142143;
+}
+.feature-three{
+
+float: right;
+
+width: 28%;
+
+background: #FFF8E8;
+
+padding: 50px 20px;
+
+text-align: center;
+}
+.feature-three img{
+    width: 83%;
+}
+.feature-three h3{
+    text-align: left;
+
+    color: #142143;
+}
+.feature-three p{
+    text-align: left;color: #142143;
+}
+
+footer{
+
+background: #008AFF;
+
+text-align: center;
+
+padding-top: 15px 0 15px;
+
+padding: 24px 0;
+}
+footer p{
+
+color: #e6d6d6;
+
+display: inline;
+}
+footer h5{
+    
+color: #fff;
+    
+font-size: 30px;
+    
+letter-spacing: 3px;
+    
+display: inline;
+    
+margin: 0 10px;
+}
